@@ -1,0 +1,65 @@
+header{
+    text-align: center;
+    padding: 10px;
+        background-color: Cyan;
+}
+header b{
+ text-shadow: 1px 1px 1px DarkOrange; 
+}
+
+header a{
+    background-color: Yellow;
+    color:  black;
+    padding: 5px;
+    border: 3px dotted  Black;
+    border-radius: 15px;
+    text-decoration: none;
+    margin: 50px;   
+    }
+    h1{
+        color: black;
+        background-color: yellow;
+        margin: 20px;
+        padding: 3px;
+        text-align: center;
+        border: 3px solid black;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .oneT{
+         text-align: center;
+         padding: 3px;
+         margin: 20px;
+         border: 3px dashed Black;
+    }
+    nav {
+     color: black;
+     text-decoration: none;
+     text-align: left;
+}
+.kaka{
+    background-color: chartreuse;
+    border: 3px dotted  Black;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+}
+img{
+    background-color: Red;
+    border: 3px dotted  Black;
+    border-radius: 30px;
+    padding: 15px;
+    width: 280px;
+    margin-left: 180px;
+}
+ol{
+    text-align: center;
+}
+li{
+        text-align: center;
+}
+.t{
+    text-align: center;
+}
+.tt{
+    text-align: center;
+}
